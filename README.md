@@ -59,7 +59,17 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 - [ ] Definir metodologia (ex: comunicativa, focada em fluência, exames)  
 - [ ] Ter **livros digitais licenciados** (Cambridge, Oxford, Pearson)  
 - [ ] Criar **slides e PDFs próprios**  
-- [ ] Organizar atividades em **níveis (A1–C2)**  
+- [ ] Organizar atividades em **níveis A1–B1**, focando em:
+  - Vocabulário essencial do dia a dia  
+  - Estruturas gramaticais básicas e intermediárias  
+  - Listening e speaking práticos  
+  - Leitura e compreensão de textos curtos  
+- [ ] Fontes recomendadas para criar materiais de qualidade:
+  - **CEFR descriptors**: objetivos de aprendizagem por nível  
+  - **Cambridge English (KET, PET, B1 Preliminary)**: exames e tópicos de cada nível  
+  - **British Council Learn English**: exercícios, textos e vídeos por nível  
+  - **Livros de referência**: English File, Headway, séries da Oxford ou Pearson  
+  - **Testes online** (ex: Exam English) para exemplos de tarefas e exercícios  
 - [ ] Preparar **roteiro padrão de aula**:
   1. Warm-up  
   2. Input (texto, áudio, vídeo)  
