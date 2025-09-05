@@ -1,6 +1,11 @@
-# Guia Prático para Dar Aulas de Inglês Online (Autônomo)
+# Escola de Inglês Online Transparente (Projeto Open-Source)
 
-Este repositório serve como **manual prático** e **checklist de operação** para organizar, iniciar e manter aulas de inglês online sem depender de plataformas intermediárias, integrando ferramentas NOCODE para captação de clientes, automação de processos e gestão eficiente.
+## Mission Statement
+
+Este projeto tem como missão **criar uma escola de inglês online totalmente aberta, transparente e colaborativa**, onde qualquer pessoa pode acompanhar, aprender, replicar ou contribuir.  
+Nosso objetivo é combinar **ensino de qualidade (níveis A1–B1)** com um **ecossistema de materiais, exercícios e atividades interativas**, mostrando passo a passo como construir e gerir uma escola de inglês online de forma ética e sustentável.  
+
+Todos os processos são públicos: desde **planejamento pedagógico**, **criação de materiais e roteiros de aula**, **estratégias de marketing**, **gestão de alunos e finanças simplificadas**, até **automação de processos com ferramentas NOCODE**. O projeto visa também construir uma **comunidade colaborativa** de professores e analistas, para troca de experiências, co-criação de materiais e desenvolvimento de novos recursos educacionais.
 
 ---
 
@@ -76,10 +81,24 @@ Este repositório serve como **manual prático** e **checklist de operação** p
   3. Prática guiada  
   4. Produção livre  
   5. Feedback  
+- [ ] Criar **personagens para listening** (ex: Ben e Lucy) e narrativas curtas para engajamento  
+- [ ] Desenvolver **jogos e quizzes online** para reforço de vocabulário e gramática  
 
 ---
 
-## 6. Gestão e Continuidade
+## 6. Transparência e Comunidade
+
+- [ ] Todo o processo é público: materiais, planejamento, marketing e finanças simplificadas (anonimizadas).  
+- [ ] Professores e analistas podem **usar ideias, criar suas versões e contribuir**.  
+- [ ] Comunidade aberta para:
+  - Troca de experiências pedagógicas  
+  - Colaboração em materiais e jogos  
+  - Discussão de metodologias e estratégias  
+- [ ] Plataformas sugeridas: **Discord**, **Slack**, **GitHub Discussions**  
+
+---
+
+## 7. Gestão e Continuidade
 
 - [ ] Manter planilha financeira mensal (ou Airtable/NOCODE)  
 - [ ] Registrar progresso individual dos alunos  
@@ -89,7 +108,7 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 
 ---
 
-## 7. Checklist Diário
+## 8. Checklist Diário
 
 - [ ] Testar internet e equipamentos  
 - [ ] Preparar materiais da aula do dia  
@@ -100,7 +119,7 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 
 ---
 
-## 8. Rotina Semanal
+## 9. Rotina Semanal
 
 - [ ] Planejar aulas da semana  
 - [ ] Publicar 2–3 conteúdos de divulgação  
@@ -110,7 +129,7 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 
 ---
 
-## 9. Fluxo de Trabalho Resumido
+## 10. Fluxo de Trabalho Resumido
 
 1. **Captação** → divulgar nas redes + indicações + formulários NOCODE  
 2. **Fechamento** → explicar método, enviar contrato e link de pagamento  
@@ -120,15 +139,25 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 
 ---
 
-## 10. Roadmap Pessoal
+## 11. Roadmap Pessoal e de Repositórios
 
-- [ ] Semana 1: Definir público e preços  
-- [ ] Semana 2: Configurar perfis, site e automações NOCODE  
-- [ ] Semana 3: Produzir primeiros conteúdos, captar alunos iniciais e testar fluxos automáticos  
-- [ ] Semana 4: Estabilizar rotina de aulas, marketing e automações  
+- **Semana 1**: Definir público, preços e metodologia  
+- **Semana 2**: Configurar perfis, site e automações NOCODE  
+- **Semana 3**: Produzir primeiros conteúdos, captar alunos iniciais e testar fluxos automáticos  
+- **Semana 4**: Estabilizar rotina de aulas, marketing e automações  
+- **Semana 5+**: Expandir materiais, criar personagens para listening, desenvolver jogos educativos, quizzes e portfólio aberto  
+
+### Repositórios sugeridos:
+- `materiais-a1-b1` → PDFs, slides, roteiros de aula por nível  
+- `listening-practice` → áudios e scripts com personagens  
+- `jogos-online` → quizzes interativos, flashcards e pequenos games  
+- `reading-exercises` → textos curtos com perguntas de compreensão  
+- `alunos-e-progressos` → planilhas/ scripts para acompanhamento de progresso  
+- `conteudo-educacional` → vídeos curtos, posts e podcasts educativos  
+- `blog-english-learning` → artigos sobre aprendizado, metodologias e dicas pedagógicas  
 
 ---
 
 ## Licença
 
-Uso pessoal e adaptável.
+Uso pessoal, adaptável e open-source. Todo o conteúdo pode ser utilizado, adaptado ou replicado por outros professores ou analistas.
