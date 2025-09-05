@@ -1,6 +1,6 @@
-                    # Guia Prático para Dar Aulas de Inglês Online (Autônomo)
+# Guia Prático para Dar Aulas de Inglês Online (Autônomo)
 
-Este repositório serve como **manual prático** e **checklist de operação** para organizar, iniciar e manter aulas de inglês online sem depender de plataformas intermediárias.
+Este repositório serve como **manual prático** e **checklist de operação** para organizar, iniciar e manter aulas de inglês online sem depender de plataformas intermediárias, integrando ferramentas NOCODE para captação de clientes, automação de processos e gestão eficiente.
 
 ---
 
@@ -21,7 +21,8 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 - [ ] Agenda digital: **Google Calendar** ou **Calendly**  
 - [ ] Compartilhamento de materiais: **Google Docs**, **Padlet**  
 - [ ] Exercícios interativos: **Quizlet**, **Kahoot**, **Google Forms**  
-- [ ] Organização e registros: **Notion** ou **Excel**  
+- [ ] Organização e registros: **Notion**, **Excel** ou **Airtable**  
+- [ ] Automação e NOCODE: **Zapier**, **Make**, **Notion Automations** para captação de leads e envio automático de e-mails  
 
 ---
 
@@ -33,9 +34,13 @@ Este repositório serve como **manual prático** e **checklist de operação** p
   - Descrição das aulas  
   - Preços e pacotes  
   - Depoimentos  
-  - Formulário de contato  
+  - Formulário de contato (integrável a NOCODE para captura automática de leads)  
 - [ ] Produzir conteúdo semanal (vídeos curtos, dicas rápidas)  
 - [ ] Incentivar **indicação com desconto**  
+- [ ] Configurar automações para:
+  - Responder leads automaticamente  
+  - Registrar novos contatos em planilha ou CRM  
+  - Enviar e-mails de follow-up  
 
 ---
 
@@ -45,6 +50,7 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 - [ ] Criar contrato simples (com política de cancelamento)  
 - [ ] Oferecer pagamentos via **Pix**, **PayPal**, **PagSeguro**  
 - [ ] Emitir recibos digitais  
+- [ ] Integrar recebimentos e registros com planilha/CRM NOCODE  
 
 ---
 
@@ -65,10 +71,11 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 
 ## 6. Gestão e Continuidade
 
-- [ ] Manter planilha financeira mensal  
+- [ ] Manter planilha financeira mensal (ou Airtable/NOCODE)  
 - [ ] Registrar progresso individual dos alunos  
 - [ ] Planejar marketing semanal (conteúdo, captação)  
 - [ ] Revisar metas trimestrais (número de alunos, receita, novos conteúdos)  
+- [ ] Automatizar notificações de aulas, pagamentos e follow-ups via ferramentas NOCODE  
 
 ---
 
@@ -79,6 +86,7 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 - [ ] Conferir agenda  
 - [ ] Fazer backup dos registros de aula  
 - [ ] Publicar ou interagir em pelo menos **1 rede social**  
+- [ ] Conferir automações e respostas de leads  
 
 ---
 
@@ -88,28 +96,29 @@ Este repositório serve como **manual prático** e **checklist de operação** p
 - [ ] Publicar 2–3 conteúdos de divulgação  
 - [ ] Atualizar registros de progresso dos alunos  
 - [ ] Revisar finanças  
+- [ ] Revisar dashboards NOCODE (leads, pagamentos, métricas de marketing)  
 
 ---
 
 ## 9. Fluxo de Trabalho Resumido
 
-1. **Captação** → divulgar nas redes + indicações  
+1. **Captação** → divulgar nas redes + indicações + formulários NOCODE  
 2. **Fechamento** → explicar método, enviar contrato e link de pagamento  
 3. **Agendamento** → marcar via Calendly ou Google Calendar  
 4. **Aula** → seguir roteiro e registrar progresso  
-5. **Follow-up** → enviar resumo da aula e material complementar  
+5. **Follow-up** → enviar resumo da aula, material complementar e e-mails automáticos  
 
 ---
 
 ## 10. Roadmap Pessoal
 
 - [ ] Semana 1: Definir público e preços  
-- [ ] Semana 2: Configurar perfis e site  
-- [ ] Semana 3: Produzir primeiros conteúdos e captar alunos iniciais  
-- [ ] Semana 4: Estabilizar rotina de aulas e marketing  
+- [ ] Semana 2: Configurar perfis, site e automações NOCODE  
+- [ ] Semana 3: Produzir primeiros conteúdos, captar alunos iniciais e testar fluxos automáticos  
+- [ ] Semana 4: Estabilizar rotina de aulas, marketing e automações  
 
 ---
 
 ## Licença
 
-Uso pessoal e adaptável.  
+Uso pessoal e adaptável.
